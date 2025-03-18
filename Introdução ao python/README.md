@@ -1,0 +1,1 @@
+Este espaço é dedicado aos conceitos básicos da linguagem, oferecendo uma introdução à sua sintaxe, estrutura e principais fundamentos
